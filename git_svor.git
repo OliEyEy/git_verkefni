@@ -7,10 +7,25 @@
 	d) pwd
 	e) mkdir
 
-	-svar: a) 'cd' stendur fyrir "change directory" og gerir nákvæmlega það.
+	-svör: a) 'cd' stendur fyrir "change directory" og gerir nákvæmlega það.
 		   b) 'cd ~' skiptir yfir á "home directory".
 		   c) 'ls' stendur fyrir "list" og sýnir lista yfir innihaldinu í núverandi eða
 		      "directory-inu" sem þú slærð inn.
 		   d) 'pwd' stendur fyrir "print working directory" og sýnir hvaða directory þú ert í.
 		   e) 'mkdir' stendur fyrir "make directory" og gerir það, býr til og nefnir directory 
 		   	   þar sem maður vill.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	a) git clone
+	b) git log
+	c) git status
+	d) git diff
+	e) git checkout
+
+	-svör: a)'git clone' "clone-ar repository" á nýjan stað svo það sé hægt að hafa tvær útgáfur
+	         sem hægt er að breyta á sitthvoran hátt.
+		   b)'git log' sýnir öll 'commit' sem hafa verið gerð.
+		   c)'git status' segir þér hvort "branch-ið" sé "up-to-date" á "repository-inu" eða hvort
+		      það þurfi að "push-a" einhverjum "commits".
+		   d)'git' sýnir mun á hlutum eins og tveimur "branches", "commits" og öðru.
+		   e) 'git checkout' uppfærir og skiptir yfir á annað "branch".
