@@ -22,12 +22,12 @@
 	d) git diff
 	e) git checkout
 
-	-svör: a)'git clone' "clone-ar repository" á nýjan stað svo það sé hægt að hafa tvær útgáfur
-	         sem hægt er að breyta á sitthvoran hátt.
-		   b)'git log' sýnir öll 'commit' sem hafa verið gerð.
-		   c)'git status' segir þér hvort "branch-ið" sé "up-to-date" á "repository-inu" eða hvort
-		      það þurfi að "push-a" einhverjum "commits".
-		   d)'git diff' sýnir mun á hlutum eins og tveimur "branches", "commits" og öðru.
+	-svör: a) 'git clone' "clone-ar repository" á nýjan stað svo það sé hægt að hafa tvær útgáfur
+	           sem hægt er að breyta á sitthvoran hátt.
+		   b) 'git log' sýnir öll 'commit' sem hafa verið gerð.
+		   c) 'git status' segir þér hvort "branch-ið" sé "up-to-date" á "repository-inu" eða hvort
+		       það þurfi að "push-a" einhverjum "commits".
+		   d) 'git diff' sýnir mun á hlutum eins og tveimur "branches", "commits" og öðru.
 		   e) 'git checkout' uppfærir og skiptir yfir á annað "branch".
 
 3. Hver er munurinn á eftirfarandi git skipunum:
@@ -38,3 +38,8 @@
 	-svör: a) 'git diff' sjálft gerir ekki neitt án auka skipana.
 		   b) 'git diff --staged' sýnir muninn á nýjasta "commit" og því sem þú ert að bera við.
 		   c) 'git diff commit1 commit2' sýnir mun á tvemur "commit-um" sem þú nefnir.
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	
+	-svar: 'version control' er forrit sem sér yfir öllum breytingum í kóða svo ef eitthvað fer 
+	        úrskeiðis er hægt að laga það einfaldlega með sem minnstum vandræðum.
