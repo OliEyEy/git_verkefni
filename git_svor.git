@@ -53,3 +53,9 @@
 	-svar: Mér fynnst að það ætti að gera eins oft og maður mögulega nennir og jafnvel meira ef 
 	       maður nennir ekki að gera það oft sérstaklega í kóðum og svoleiðis af því að minnsta mistök gæti tekið langan tíma að laga ef maður er ekki viss hvar hún kom upp.
 
+7.	Hvað er "Working directory"? "Staging area"? og "Repository" í GIT?
+
+	-svör: a) 'Working directory' er "directory-ið" sem þú ert að vinna í nú.
+		   b) 'Staging area' er nokkurn veginn svæði sem gögn geymast á meðan þú velur hvert þau
+		      fara
+		   c) 'Repository' er einfaldlega geymsla fyrir gögn.
