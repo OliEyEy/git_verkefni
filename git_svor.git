@@ -59,3 +59,8 @@
 		   b) 'Staging area' er nokkurn veginn svæði sem gögn geymast á meðan þú velur hvert þau
 		      fara
 		   c) 'Repository' er einfaldlega geymsla fyrir gögn.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	
+	-svar: Oft í hópverkefnum og þeim aðstæðum sem margir eru að vinna í sama 
+	       kóðanum/skránnum
