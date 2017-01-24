@@ -43,3 +43,8 @@
 	
 	-svar: 'version control' er forrit sem sér yfir öllum breytingum í kóða svo ef eitthvað fer 
 	        úrskeiðis er hægt að laga það einfaldlega með sem minnstum vandræðum.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	
+	-svar: Það er einfalt fyrir hópa að vinna saman í verkefni/kóða og Git vinnur hratt og vel.
+
