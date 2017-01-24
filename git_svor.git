@@ -27,5 +27,14 @@
 		   b)'git log' sýnir öll 'commit' sem hafa verið gerð.
 		   c)'git status' segir þér hvort "branch-ið" sé "up-to-date" á "repository-inu" eða hvort
 		      það þurfi að "push-a" einhverjum "commits".
-		   d)'git' sýnir mun á hlutum eins og tveimur "branches", "commits" og öðru.
+		   d)'git diff' sýnir mun á hlutum eins og tveimur "branches", "commits" og öðru.
 		   e) 'git checkout' uppfærir og skiptir yfir á annað "branch".
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+	-svör: a) 'git diff' sjálft gerir ekki neitt án auka skipana.
+		   b) 'git diff --staged' sýnir muninn á nýjasta "commit" og því sem þú ert að bera við.
+		   c) 'git diff commit1 commit2' sýnir mun á tvemur "commit-um" sem þú nefnir.
