@@ -1,14 +1,16 @@
 #Git spurningar og svör
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Einstaklings Verkefni - Git</title>
-		<meta charset="utf-8">
-	</head>
-	<body>
-		<h1>Git Spurningar</h1>
-		<p>
-			1. 
-		</p>
-	</body>
-</html>
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	a) cd
+	b) cd ~
+	c) ls
+	d) pwd
+	e) mkdir
+
+	-svar: a) 'cd' stendur fyrir "change directory" og gerir nákvæmlega það.
+		   b) 'cd ~' skiptir yfir á "home directory".
+		   c) 'ls' stendur fyrir "list" og sýnir lista yfir innihaldinu í núverandi eða
+		      "directory-inu" sem þú slærð inn.
+		   d) 'pwd' stendur fyrir "print working directory" og sýnir hvaða directory þú ert í.
+		   e) 'mkdir' stendur fyrir "make directory" og gerir það, býr til og nefnir directory 
+		   	   þar sem maður vill.
